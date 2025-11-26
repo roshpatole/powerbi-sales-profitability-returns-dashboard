@@ -24,6 +24,7 @@ Provide executive-level KPIs with drill-down capabilities
 
 Synthetic datasets (7 tables) were used to simulate an ERP-style analytics environment.
 
+
 Tables Used:
 
 Sales – transactional sales data
@@ -50,6 +51,7 @@ Dimensions: Customers, Products, Regions, Calendar
 
 Separate fact table for SalesReturns
 
+
 Relationships:
 
 Customers (1) → Sales (*)
@@ -61,6 +63,7 @@ Regions (1) → Customers (*)
 Calendar_New (1) → Sales (*)
 
 Sales (1) → SalesReturns (*)
+
 
 This ensures:
 
@@ -119,6 +122,7 @@ Share-of-total calculations using ALL()
 All measures are grouped logically (Sales, Margin, Returns, Time Intelligence) following BI best practices.
 
 📊 Dashboard Pages
+
 Page 1 — Executive Sales Overview
 
 Sales, margin, and customer KPIs
@@ -195,13 +199,10 @@ Data validation is essential before publishing analytics
 
 🚀 How to Use
 
-Download the .pbix file
-
-Open in Power BI Desktop
-
-Explore dashboards using slicers and filters
-
-Review measures in the “Measures” table
+1. Review the dashboard screenshots provided in this repository to understand the overall analysis, KPIs, and business insights.
+2. Refer to the Data Model image to explore the star schema design and table relationships.
+3. Use the documentation in this README to understand the business logic, KPIs, and DAX calculations used in the project.
+4. The interactive Power BI (.pbix) file can be shared upon request for deeper review, interviews, or walkthrough discussions.
 
 👤 Author
 
