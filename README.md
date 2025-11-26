@@ -124,6 +124,7 @@ All measures are grouped logically (Sales, Margin, Returns, Time Intelligence) f
 📊 Dashboard Pages
 
 Page 1 — Executive Sales Overview
+![Page 1](screenshots/page_1_sales_overview.png)
 
 Sales, margin, and customer KPIs
 
@@ -134,6 +135,7 @@ Top customers
 Low-margin products
 
 Page 2 — Product & Pricing Analysis
+![Page 2](screenshots/page_2_product_pricing.png)
 
 Product profitability comparison
 
@@ -142,6 +144,7 @@ Price vs margin analysis
 Category-level insights
 
 Page 3 — Regional & Customer Analytics
+![Page 3](screenshots/page_3_region_customer.png)
 
 Sales by region
 
@@ -152,6 +155,7 @@ Customer segment performance
 Target vs actual analysis
 
 Page 4 — Returns & Operations Analytics
+![Page 4](screenshots/page_4_returns_analysis.png)
 
 Total returns & return rate
 
