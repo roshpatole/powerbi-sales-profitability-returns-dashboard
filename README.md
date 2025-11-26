@@ -1,4 +1,5 @@
 📊 Profitability, Sales & Returns Analytics Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is an end-to-end Business Intelligence analytics solution built using Power BI, focused on analyzing sales performance, profitability, customer behavior, and product returns across multiple business dimensions.
@@ -70,6 +71,7 @@ Accurate aggregations
 Scalable analytics design
 
 📐 Key Metrics & KPIs
+
 Sales & Profitability
 
 Total Sales
